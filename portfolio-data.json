@@ -1,0 +1,20 @@
+[
+{
+    "_id": "632cc6a51eb21a0c64e0614b",
+    "name": "https://raw.githubusercontent.com/devmhimran/dummy-api/main/Devmhimran-Api/Devmhimran-image/devmhimran-grocery-shop.png",
+    "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/b646bb84879231.5d6ad0b303a1e.png",
+    "category": "app-uiux",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+    "previewInputData": [
+      {
+        "previewImage": "https://cdn.dribbble.com/users/2064121/screenshots/6816508/surge3_-_agency_website_design_3x_4x.jpg?compress=1&resize=400x300&vertical=top"
+      },
+      {
+        "previewImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiCVC9qU_ADYa9luWN9NWDfD_CJfs6zzElbh6cfc6jhUeLXl8hHedZmUUxpRyZ4GtY2z4&usqp=CAU"
+      },
+      {
+        "previewImage": "https://cdn.dribbble.com/users/2317368/screenshots/10008013/media/3f54ff99f31bd734f0db8baee4dec682.jpg?compress=1&resize=400x300&vertical=top"
+      }
+    ]
+  }
+]
